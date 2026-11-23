@@ -22,7 +22,7 @@ for (int j =0;j <cols; j++){
 printf("element [%d][%d]: ", i,j);
 scanf("%d", &mat2[i][j]);
 }
-}
+} 
 //performing matrix addition 
 for (int i=0; i<rows; i++){
 for (int j=0;j < cols ; j++){
